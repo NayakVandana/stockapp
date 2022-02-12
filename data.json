@@ -1,0 +1,64 @@
+{
+  "stocks":[
+      {
+          "id":1,
+          "name":"SBI",
+          "logo":"https://bfsi.eletsonline.com/wp-content/uploads/2016/02/sbi1.png",
+          "payload": {}
+      },
+      {
+          "id":2,
+          "name":"ITC",
+          "logo":"https://bfsi.eletsonline.com/wp-content/uploads/2016/02/sbi1.png",
+          "payload": {}
+      },
+      {
+          "id":3,
+          "name":"ACC",
+          "logo":"https://bfsi.eletsonline.com/wp-content/uploads/2016/02/sbi1.png",
+          "payload": {}
+      },
+      {
+          "id":4,
+          "name":"HCL",
+          "logo":"https://bfsi.eletsonline.com/wp-content/uploads/2016/02/sbi1.png",
+          "payload": {}
+      },
+      {
+          "id":5,
+          "name":"ACC",
+          "logo":"https://bfsi.eletsonline.com/wp-content/uploads/2016/02/sbi1.png",
+          "payload": {}
+      },
+      {
+          "id":6,
+          "name":"HCL",
+          "logo":"https://bfsi.eletsonline.com/wp-content/uploads/2016/02/sbi1.png",
+          "payload": {}
+      },
+      {
+          "id":7,
+          "name":"ACC",
+          "logo":"https://bfsi.eletsonline.com/wp-content/uploads/2016/02/sbi1.png",
+          "payload": {}
+      },
+      {
+          "id":8,
+          "name":"SBI",
+          "logo":"https://bfsi.eletsonline.com/wp-content/uploads/2016/02/sbi1.png",
+          "payload": {}
+      },
+      {
+          "id":9,
+          "name":"HCL",
+          "logo":"https://bfsi.eletsonline.com/wp-content/uploads/2016/02/sbi1.png",
+          "payload": {}
+      },
+      {
+          "id":10,
+          "name":"ACC",
+          "logo":"https://bfsi.eletsonline.com/wp-content/uploads/2016/02/sbi1.png",
+          "payload": {}
+      }
+  ]
+}
