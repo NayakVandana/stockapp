@@ -1,5 +1,5 @@
 function getStocks(){
-    var url = "http://localhost:1999/stocks";
+    var url ="http://localhost:1999/stocks";
     var url2 ="https://priceapi.moneycontrol.com/pricefeed/bse/equitycash";
 
     fetch(url)
@@ -16,14 +16,17 @@ function getStocks(){
               <img src='${api1.logo}' class="card-img-top" style="height:250px;"/>
                 <div class="card-body">
              <h5 class="card-title">${api2.data.company}</h5>
-             <p>Price Current : $ {api2.data.company}</p>
-             <p>Price Change : ${api2.data.pricepercentchange}%</p>
+             <p>Price Current : ${api2.data.pricecurrent}</p>
+             <p>Price Change : ${api2.data.pricechange}</p>
+             <p>Price Percent Change : ${api2.data.pricepercentchange}%</p>
 
            
            
            
            </div>`
-           document.getElementById("display").appendChild(element);
+
+           $('#display').append(element);
+           //document.getElementById("display").appendChild(element);
         })
     }));
 

@@ -1,0 +1,64 @@
+{
+  "stocks":[
+      {
+          "id":1,
+          "name":"SBI",
+          "logo":"https://www.punekarnews.in/wp-content/uploads/2020/08/SBI-Bank.jpg",
+          "payload": {}
+      },
+      {
+          "id":2,
+          "name":"ITC",
+          "logo":"https://www.punekarnews.in/wp-content/uploads/2020/08/SBI-Bank.jpg",
+          "payload": {}
+      },
+      {
+          "id":3,
+          "name":"ACC",
+          "logo":"https://www.punekarnews.in/wp-content/uploads/2020/08/SBI-Bank.jpg",
+          "payload": {}
+      },
+      {
+          "id":4,
+          "name":"HCL",
+          "logo":"https://www.punekarnews.in/wp-content/uploads/2020/08/SBI-Bank.jpg",
+          "payload": {}
+      },
+      {
+          "id":5,
+          "name":"ACC",
+          "logo":"https://www.punekarnews.in/wp-content/uploads/2020/08/SBI-Bank.jpg",
+          "payload": {}
+      },
+      {
+          "id":6,
+          "name":"HCL",
+          "logo":"https://www.punekarnews.in/wp-content/uploads/2020/08/SBI-Bank.jpg",
+          "payload": {}
+      },
+      {
+          "id":7,
+          "name":"ACC",
+          "logo":"https://www.punekarnews.in/wp-content/uploads/2020/08/SBI-Bank.jpg",
+          "payload": {}
+      },
+      {
+          "id":8,
+          "name":"SBI",
+          "logo":"https://www.punekarnews.in/wp-content/uploads/2020/08/SBI-Bank.jpg",
+          "payload": {}
+      },
+      {
+          "id":9,
+          "name":"HCL",
+          "logo":"https://www.punekarnews.in/wp-content/uploads/2020/08/SBI-Bank.jpg",
+          "payload": {}
+      },
+      {
+          "id":10,
+          "name":"ACC",
+          "logo":"https://www.punekarnews.in/wp-content/uploads/2020/08/SBI-Bank.jpg",
+          "payload": {}
+      }
+  ]
+}
